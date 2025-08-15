@@ -38,7 +38,7 @@
 
 ## 📌 Featured Project
 
-### 🔹 [AICMembers](https://github.com/yourusername/AICMembers)
+### 🔹 [AICMembers](https://github.com/marcosvarela5/AICMembers)
 Full stack member management application:
 - Secure backend with **Spring Boot** and **JWT**
 - **PostgreSQL** database
