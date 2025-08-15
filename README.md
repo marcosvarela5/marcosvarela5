@@ -36,7 +36,7 @@
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 🔹 [AICMembers](https://github.com/marcosvarela5/AICMembers)
 Full stack member management application:
@@ -48,6 +48,16 @@ Full stack member management application:
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/marcosvarela5/AICMembers)
 ![Last commit](https://img.shields.io/github/last-commit/marcosvarela5/AICMembers)
 
+### 🔹 [DigReport](https://github.com/marcosvarela5/digreport)
+Web application that helps authorities to protect and track cultural heritage finds
+- **Spring Boot** and **JWT**
+- **PostgreSQL**
+- **Vue.js** + **Vite** + **Axios** + **Pinia** + **TypeScript**
+- **Bachelor's Thesis Project**
+
+![Commit Activity](https://img.shields.io/github/commit-activity/m/marcosvarela5/digreport)
+![Last commit](https://img.shields.io/github/last-commit/marcosvarela5/digreport)
+  
 ---
 
 ## 📊 GitHub Stats
