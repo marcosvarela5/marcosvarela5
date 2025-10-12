@@ -20,14 +20,16 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+
 ### **Frontend**
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ### **Database & DevOps**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,6 +37,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 
 ---
@@ -60,6 +63,16 @@ Web application that helps authorities to protect and track cultural heritage fi
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/marcosvarela5/digreport)
 ![Last commit](https://img.shields.io/github/last-commit/marcosvarela5/digreport)
+
+
+### 🔹 [AVC-ADMIN](https://github.com/marcosvarela5/avc-admin)
+Simple and flexible web app that provides an administration system for small local associations
+- **Node.js** and **JavaScript**
+- **HTML/CSS3**
+- **MySQL**
+
+![Commit Activity](https://img.shields.io/github/commit-activity/m/marcosvarela5/avc-admin)
+![Last commit](https://img.shields.io/github/last-commit/marcosvarela5/avc-admin)
   
 ---
 
