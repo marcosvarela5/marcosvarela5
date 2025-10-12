@@ -1,5 +1,5 @@
 ## 🚀 About Me
-🎓 Software Engineer specialized in **backend development** with both **Java** and **Spring Boot**, as well as **C# .NET Framework**. Also skilled in **JavaScript/TypeScript**, **Vue.js**, and **React** for building full stack applications. I have worked with legacy desktop applications built using **.NET with WindowsForms and WPF as well**.
+🎓 Software Engineer specialized in **backend development** with both **Java** and **Spring Boot**, as well as **C# .NET Framework**. Also skilled in **JavaScript/TypeScript**, **Vue.js**, and **React** for building full stack applications. I have worked with legacy desktop applications built using **.NET with WindowsForms and WPF** as well.
 
 📍 Based in Spain | Open to relocation, particularly interested in Austria  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" width="20" />
 
