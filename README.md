@@ -44,16 +44,6 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [AICMembers](https://github.com/marcosvarela5/AICMembers)
-Full stack member management application:
-- Secure backend with **Spring Boot** and **JWT**
-- **PostgreSQL** database
-- Modern frontend with **Vue.js** + **TypeScript**
-- Clean and responsive UI
-
-![Commit Activity](https://img.shields.io/github/commit-activity/m/marcosvarela5/AICMembers)
-![Last commit](https://img.shields.io/github/last-commit/marcosvarela5/AICMembers)
-
 ### 🔹 [DigReport](https://github.com/marcosvarela5/digreport)
 Web application that helps authorities to protect and track cultural heritage finds
 - **Spring Boot** and **JWT**
@@ -73,6 +63,17 @@ Simple and flexible web app that provides an administration system for small loc
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/marcosvarela5/avc-admin)
 ![Last commit](https://img.shields.io/github/last-commit/marcosvarela5/avc-admin)
+
+
+### 🔹 [AICMembers](https://github.com/marcosvarela5/AICMembers)
+Full stack member management application:
+- Secure backend with **Spring Boot** and **JWT**
+- **PostgreSQL** database
+- Modern frontend with **Vue.js** + **TypeScript**
+- Clean and responsive UI
+
+![Commit Activity](https://img.shields.io/github/commit-activity/m/marcosvarela5/AICMembers)
+![Last commit](https://img.shields.io/github/last-commit/marcosvarela5/AICMembers)
   
 ---
 
